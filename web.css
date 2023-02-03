@@ -1,0 +1,271 @@
+* {
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    overflow-x: hidden;
+
+    /* align-items: center; */
+}
+
+/* ..........HOUSE NUMBER 1 CSS....... */
+
+.house1 {
+    background: #d3eaf2;
+    /* border: 2px solid; */
+
+}
+
+.nav-logo img {
+
+    height: 80px;
+    padding: 40px;
+    position: absolute;
+    left: 50px;
+    bottom: -20.5px;
+}
+
+.room1 {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+
+
+}
+
+.nav-items ul {
+    display: flex;
+    gap: 50px;
+    padding: 40px;
+}
+
+.nav-items ul li a {
+
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: 'Solitreo', cursive;
+
+}
+/* :hover .nav-items li a {
+
+    background: red;
+} */
+
+/* ......HOUSE NUMBER 2 CSS.........*/
+
+.house2 {
+    background: #d3eaf2;
+    padding: 50px 0px 0px 0px;
+}
+
+.room2 {
+
+    text-align: center;
+}
+
+h1 {
+    margin-top: 30px;
+    font-family: "sacramento";
+    font-size: 90px;
+}
+
+.room2 h2 {
+    margin-top: 30px;
+    font-family: "montserrat";
+}
+
+.cloud2 {
+    margin-top: 30px;
+    position: relative;
+    right: 250px;
+}
+
+.cloud1 {
+    position: relative;
+    left: 250px;
+}
+
+/* ..........HOUSE NUMBER 3 CSS........ */
+
+.mypic img {
+    height: 200px;
+    /* border-radius: 200px; */
+}
+
+.house3 {
+    margin-top: 130px;
+
+}
+
+.room3 {
+    /* background: rgb(225, 170, 188); */
+    text-align: center;
+}
+
+.room3 .mypic img{
+
+    border-radius: 50%;
+    width: 200px;
+}
+
+.room3 h2 {
+    /* background: gray; */
+    margin-top: 50px;
+    font-size: 2.5rem;
+    font-family: "montserrat";
+}
+
+.room3 .intropara {
+    /* background: gray; */
+    margin-top: 30px;
+    font-size: 1.3rem;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+}
+
+.intropara .line2 {
+    /* background: red; */
+    padding-top: 10px;
+}
+
+/* .....HOUSE NUMBER 4 CSS */
+
+.skillpic img {
+    height: 120px;
+}
+
+.house4 .head1 {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.skillcontainer {
+    display: flex;
+    justify-content: center;
+}
+
+.skillpara {
+
+    padding-left: 20px;
+}
+
+.skillpara p {
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.skillpara h3 {
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+}
+
+
+.chillicontainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+
+.chillipic img {
+
+    height: 150px;
+}
+
+.hotwindpara {
+    position: relative;
+    right: 40px;
+}
+
+.hotwindpara p {
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.hotwindpara h3 {
+
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+}
+
+.room5 {
+
+    margin-top: 60px;
+    text-align: center;
+}
+
+.room5 h2 {
+
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.contactpara {
+
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.contactpara p {
+
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.room5 .line2 {
+
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
+}
+
+.room5 .btn button {
+
+    background-color: #11cdd4;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+}
+
+/* .......BOTTOM SECTION CSS */
+
+.room6 {
+
+    margin-top: 100px;
+    background-color: #66BFBF;
+}
+
+.bottompara {
+
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.room6 .copyright {
+
+    margin-bottom: 30px;
+    text-align: center;
+    color: white;
+}
